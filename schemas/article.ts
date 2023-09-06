@@ -18,6 +18,11 @@ export default {
             name: 'content',
             type: 'string',
             title: 'Article content'
+        },
+        {
+            name: 'edited',
+            type: 'string',
+            title: 'Edited'
         }
     ]
 }
